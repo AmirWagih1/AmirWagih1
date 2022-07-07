@@ -1,16 +1,16 @@
-### Hi there 👋
+# Amir Wagih
+Hey,I am Amir, a **Statistics major at FEPS, Cairo University** who is really interested in data analysis, I got passion for data science and currently studying machine learning
 
-<!--
-**AmirWagih1/AmirWagih1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skillset: 
+- SQL (I have a 6 stars SQL gold badge on [hackerrank](https://www.hackerrank.com/AmirWagih))
+- Python (Along with libraries such as **pandas**, **numpy**)
+- R (Along with libraries such as **ggplot2**, **dplyr**)
+- Tableau
+- Excel
+## Other skills and Hoppies:
+- Basic web developing skills (HTML,CSS,JS,Few libraries/frameworks)
+- Graphic Design
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
