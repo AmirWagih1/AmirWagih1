@@ -1,5 +1,5 @@
 # Amir Wagih
-Hey,I am Amir, a **Statistics major at FEPS, Cairo University** who is really interested in data analysis, I got passion for data science and currently studying machine learning
+Hey,My name is Amir. a Statistics major at FEPS, Cairo University who worked on several data analysis projects, and I enjoy getting insights out of data. I am currently interested in machine learning and studying it to go beyond my data analytics skills; Hoping to make good progress in the field of data science.
 
 ## Skillset: 
 - SQL
