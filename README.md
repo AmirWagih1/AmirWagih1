@@ -15,7 +15,7 @@ I am a Statistics major at FEPS, Cairo University who worked on several data ana
 
 ## Projects:
 
-- Data Analysis Projects:
+- Data Analysis/Data Science Projects:
   - [**IMDB Dataset Analytics**](https://github.com/AmirWagih1/imdb-movie-dataset-analytics) : A Complete Data Analytics Project aimed at getting insights out of an [IMDB dataset](https://www.kaggle.com/datasets/ngochieunguyen/imdb-extensive) I found on kaggle
   - [**Finding Donors Project**](https://github.com/AmirWagih1/finding_donors) : it's a **Machine Learning** project I worked on during the Eg-fwd ML Cross-Skilling Scholarship
 
