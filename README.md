@@ -20,7 +20,6 @@ I am a Statistics major at FEPS, Cairo University who worked on several data ana
   - [**Finding Donors Project**](https://github.com/AmirWagih1/finding_donors) : it's a **Machine Learning** project I worked on during the Eg-fwd ML Cross-Skilling Scholarship
 
 - Other Projects (Unrelated to data analysis) :
-  - [**Word mnemonics application**](https://github.com/AmirWagih1/word_mnemonics_project) : A Web App that creates mnemonics for a specified word
-
+  - [**Word mnemonics application**](https://github.com/AmirWagih1/word_mnemonics_project) : A Web App that creates mnemonics for a specified word to help you memorize it.
 
 
