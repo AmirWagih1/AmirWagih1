@@ -15,5 +15,6 @@ I am a Statistics major at FEPS, Cairo University who worked on several data ana
 
 ## Projects (I am proud of):
   - [**IMDB Dataset Analytics**](https://github.com/AmirWagih1/imdb-movie-dataset-analytics) : A Complete Data Analytics Project aimed at getting insights out of an [IMDB dataset](https://www.kaggle.com/datasets/ngochieunguyen/imdb-extensive) I found on kaggle
-.
 
+## Other projects (Not DA/DS related):
+- [**Word mnemonics generator**](https://github.com/AmirWagih1/word_mnemonics_generator) : A Web app that generates mnemonic/related words for a word of your choice.
