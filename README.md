@@ -18,5 +18,5 @@ I am a Statistics major at FEPS, Cairo University who worked on several data ana
   - [**HackerRank Leaderboard Scraping and Explanatory Analysis**](https://github.com/AmirWagih1/hackerrank-leaderboard-scraping-and-eda)
   - [**Identify Customer Segments**](https://github.com/AmirWagih1/identify_customer_segments): Identifying customer segments (clusters) of a sales mail company that are prevalent in the demographic data of people of germany using unsupervised learning techniques
 
-## Other projects (Not DA/DS related):
+## Other projects (Not data related):
 - [**Word mnemonics generator**](https://github.com/AmirWagih1/word_mnemonics_generator) : A Web app that generates mnemonic/related words for a word of your choice.
