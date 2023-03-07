@@ -20,3 +20,5 @@ I am a Statistics major at FEPS, Cairo University who worked on several data ana
 
 ## Other projects (Not data related):
 - [**Word mnemonics generator**](https://github.com/AmirWagih1/word_mnemonics_generator) : A Web app that generates mnemonic/related words for a word of your choice.
+- [**Browser Game : Guess the youtube channel from video title**](https://github.com/AmirWagih1/browser-game-guess-the-youtube-channel-from-video-title):
+it's a little project I worked on using **Youtube API V3**. Just try to guess the youtuber/youtube channel based on their video title
