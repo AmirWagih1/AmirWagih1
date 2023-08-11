@@ -1,7 +1,7 @@
 # Amir Wagih
-Hey, My name is Amir. 
+Hey, My name is Amir Wagih.
+As a dedicated statistics major with a strong mathematical background at Faculty of Economics and Political Science, Cairo University, I have sharpened my skills through a variety of unique data analysis projects. My passion lies in data science, where I am constantly seeking opportunities to expand my knowledge and expertise in machine learning. I am driven by a desire to always improve and learn. Creativity is always at the core of my work, as I believe it's essential for extracting clear insights from data for better decision-making. As a student, I am always ready to push my boundaries to reach my fullest potential.
 
-I am a Statistics major at FEPS, Cairo University who worked on several data analysis projects, and I enjoy getting insights out of data. I am currently interested in machine learning and studying it to go beyond my data analytics skills; Hoping to make good progress in the field of data science.
 
 ## Skillset: 
 - SQL
